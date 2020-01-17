@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579172323 source:c:\users\sinyavsk\codeblocksprojects\gglist\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
